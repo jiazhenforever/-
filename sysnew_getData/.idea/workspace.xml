@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a437ad7f-bcd4-451b-90ad-ba60046d5777" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1SBQUwTzVH9rjIbPaqTjmrDlQmZ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.sysnew_main">
+    <configuration name="sysnew_main" type="PythonConfigurationType" factoryName="Python">
+      <module name="sysnew" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sysnew_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sysnew_network" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sysnew" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sysnew_network.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.sysnew_main" />
+      <item itemvalue="Python.sysnew_network" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sysnew_network" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a437ad7f-bcd4-451b-90ad-ba60046d5777" name="Default Changelist" comment="" />
+      <created>1557393583549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557393583549</updated>
+      <workItem from="1557394187401" duration="4367000" />
+      <workItem from="1557816835586" duration="277000" />
+      <workItem from="1557817388452" duration="158000" />
+      <workItem from="1557819217150" duration="6037000" />
+      <workItem from="1558314671923" duration="1450000" />
+      <workItem from="1558508406215" duration="440000" />
+      <workItem from="1561971192735" duration="23000" />
+      <workItem from="1562144583384" duration="1280000" />
+      <workItem from="1562578511188" duration="50000" />
+      <workItem from="1562578998354" duration="708000" />
+      <workItem from="1562653810517" duration="3597000" />
+      <workItem from="1562810731348" duration="1631000" />
+      <workItem from="1562816647919" duration="334000" />
+      <workItem from="1563360406976" duration="22773000" />
+      <workItem from="1565570419159" duration="9000" />
+      <workItem from="1565570429733" duration="3088000" />
+      <workItem from="1565948856993" duration="8000" />
+      <workItem from="1565948866384" duration="6177000" />
+      <workItem from="1568597604362" duration="912000" />
+      <workItem from="1569233079319" duration="495000" />
+      <workItem from="1569233832253" duration="1132000" />
+      <workItem from="1569493276378" duration="1064000" />
+      <workItem from="1570527675347" duration="734000" />
+      <workItem from="1570617697444" duration="396000" />
+      <workItem from="1570779335191" duration="842000" />
+      <workItem from="1571034533414" duration="138000" />
+      <workItem from="1571034736346" duration="319000" />
+      <workItem from="1571035474260" duration="37000" />
+      <workItem from="1571036239293" duration="148000" />
+      <workItem from="1571036402335" duration="150000" />
+      <workItem from="1571036567269" duration="2074000" />
+      <workItem from="1571635162538" duration="1969000" />
+      <workItem from="1571637423019" duration="6056000" />
+      <workItem from="1571724727671" duration="5136000" />
+      <workItem from="1571736013038" duration="2611000" />
+      <workItem from="1571810495868" duration="4899000" />
+      <workItem from="1571896556343" duration="7145000" />
+      <workItem from="1571970278610" duration="12684000" />
+      <workItem from="1572224604217" duration="19284000" />
+      <workItem from="1572310029105" duration="33853000" />
+      <workItem from="1572397542416" duration="14563000" />
+      <workItem from="1572414423787" duration="261000" />
+      <workItem from="1572414702492" duration="1206000" />
+      <workItem from="1572416372847" duration="171000" />
+      <workItem from="1572416563664" duration="384000" />
+      <workItem from="1572417026886" duration="63000" />
+      <workItem from="1572417092384" duration="2000" />
+      <workItem from="1572417117801" duration="72000" />
+      <workItem from="1572417205238" duration="134000" />
+      <workItem from="1572417550421" duration="10243000" />
+      <workItem from="1572485069956" duration="19986000" />
+      <workItem from="1572577850525" duration="13747000" />
+      <workItem from="1572829976957" duration="1012000" />
+      <workItem from="1572916169141" duration="689000" />
+      <workItem from="1572916989256" duration="10887000" />
+      <workItem from="1572938661196" duration="6772000" />
+      <workItem from="1573001293202" duration="519000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sysnew2$sysnew_main.coverage" NAME="sysnew_main Coverage Results" MODIFIED="1572948565639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sysnew_2$sysnew_main.coverage" NAME="sysnew_main Coverage Results" MODIFIED="1571637135598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sysnew$sysnew_network.coverage" NAME="sysnew_network Coverage Results" MODIFIED="1557451967926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sysnew$sysnew_main.coverage" NAME="sysnew_main Coverage Results" MODIFIED="1571305527711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
